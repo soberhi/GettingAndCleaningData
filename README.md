@@ -8,7 +8,7 @@ I have two files:
 
 (2) A code book that describes the variables, the data, and transformation work.
 
-To create the tidy data set, just run the source code. It will create the interm data sets and tidy it up, before creating the finished poduct.
+To create the tidy data set, just run the source code. It will create the interm data sets and tidy it up, before creating the finished poduct (a tidy data set summarizing the average for each variable for each activity and each subject).
 
 Steps involved in my analysis:
 
